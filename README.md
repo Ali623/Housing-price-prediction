@@ -28,5 +28,5 @@ To use and explore the code and model for housing price prediction, follow these
 ## Contact
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out:
 
-aliullah623@gmail.com
-https://www.linkedin.com/in/aliullah623/
+- aliullah623@gmail.com
+- https://www.linkedin.com/in/aliullah623/
